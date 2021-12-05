@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sig/static/css/main.eb603de7.chunk.css",
+    "main.js": "/sig/static/js/main.f6b8a508.chunk.js",
+    "main.js.map": "/sig/static/js/main.f6b8a508.chunk.js.map",
+    "runtime-main.js": "/sig/static/js/runtime-main.52be7cde.js",
+    "runtime-main.js.map": "/sig/static/js/runtime-main.52be7cde.js.map",
+    "static/css/2.97163bbb.chunk.css": "/sig/static/css/2.97163bbb.chunk.css",
+    "static/js/2.7e255af5.chunk.js": "/sig/static/js/2.7e255af5.chunk.js",
+    "static/js/2.7e255af5.chunk.js.map": "/sig/static/js/2.7e255af5.chunk.js.map",
+    "static/js/3.7c493591.chunk.js": "/sig/static/js/3.7c493591.chunk.js",
+    "static/js/3.7c493591.chunk.js.map": "/sig/static/js/3.7c493591.chunk.js.map",
+    "index.html": "/sig/index.html",
+    "static/css/2.97163bbb.chunk.css.map": "/sig/static/css/2.97163bbb.chunk.css.map",
+    "static/css/main.eb603de7.chunk.css.map": "/sig/static/css/main.eb603de7.chunk.css.map",
+    "static/js/2.7e255af5.chunk.js.LICENSE.txt": "/sig/static/js/2.7e255af5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/sig/static/media/sora-latin-ext-400-normal.b6e3517b.woff2",
+    "static/media/wallet.c746d144.less": "/sig/static/media/wallet.c746d144.less"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52be7cde.js",
+    "static/css/2.97163bbb.chunk.css",
+    "static/js/2.7e255af5.chunk.js",
+    "static/css/main.eb603de7.chunk.css",
+    "static/js/main.f6b8a508.chunk.js"
+  ]
+}
